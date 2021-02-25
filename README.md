@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F0CACC&height=200&section=header&text=%@sohyun._.ly&animation=fadeIn&fontSize=50)
 > 작심삼일도 열 번하면 한 달이다✌🏻
 
-- 🔭  I’m currently working on **[Move, Pig](https://github.com/sohyunly/move-pig)**
+- 👩🏻‍💻  Inprogress **[Move, Pig](https://github.com/sohyunly/move-pig)**
 
 - 🌱  I’m currently learning **Instagram clone coding**
 
